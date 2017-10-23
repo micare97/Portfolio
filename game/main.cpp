@@ -1,4 +1,4 @@
-// little_explorer.cpp: Okreúla punkt wejúcia dla aplikacji konsoli.
+// little_explorer.cpp: Okre≈ìla punkt wej≈ìcia dla aplikacji konsoli.
 //
 #include "stdafx.h"
 
