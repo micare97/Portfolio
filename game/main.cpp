@@ -1,5 +1,3 @@
-// little_explorer.cpp: Okreœla punkt wejœcia dla aplikacji konsoli.
-//
 #include "stdafx.h"
 
 #include "SFML\Graphics.hpp"
