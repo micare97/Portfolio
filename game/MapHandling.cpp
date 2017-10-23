@@ -107,12 +107,4 @@ void PrintMap(sf::RenderWindow &window, std::vector <Square> &Map, sf::Vector2f 
 			window.draw(Map[IDd].SS);
 		}
 	}
-//czesc diagnostyczna
-	/*if (IDtmp != ID)
-	{
-		std::cout << ID << "(" << PZm.x << ", " << PZm.y << ")" << std::endl
-			<< tmpint << " | " << (PZm.x / B) + 1 << std::endl << std::endl;
-	}
-	IDtmp = ID;
-	*/
 }
